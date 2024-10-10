@@ -460,6 +460,29 @@ h6{
         margin-top: 60px;
     }
 }
+footer {
+    background-color: black; /* Cambia este color según el estilo de tu sitio */
+    text-align: center;
+    position: relative;
+    width: 100%;
+    padding: 5px;
+}
+
+.social-icons a {
+    margin: 10px;
+    color: white; /* Cambia este color según tu diseño */
+    text-decoration: none;
+}
+
+.social-icons i {
+    font-size: 24px; /* Tamaño de los iconos */
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px; /* Tamaño de la fuente del texto */
+    color: #666; /* Cambia este color según tu diseño */
+}
 
 @media (min-width: 768px) and (max-width: 1024px) {
     .contenedor-cards {
